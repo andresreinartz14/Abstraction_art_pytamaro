@@ -3,13 +3,13 @@
   "description": "This curriculum introduces learners to abstraction by connecting abstract visual art with code.",
   "visibility": "visible",
   "activitiesPreviewImage": [
-    "andres/aap-lesson-1/en/v1",
-    "andres/aap-lesson-2/en/v1",
-    "andres/aap-lesson-3/en/v1",
-    "andres/aap-lesson-4/en/v1",
-    "andres/aap-lesson-5/en/v1",
-    "andres/aap-lesson-6/en/v1",
-    "andres/aap-lesson-7/en/v1"
+    "reinartz/aap-lesson-1/en/v1",
+    "reinartz/aap-lesson-2/en/v1",
+    "reinartz/aap-lesson-3/en/v1",
+    "reinartz/aap-lesson-4/en/v1",
+    "reinartz/aap-lesson-5/en/v1",
+    "reinartz/aap-lesson-6/en/v1",
+    "reinartz/aap-lesson-7/en/v1"
   ],
   "orderingKey": "abstraction-in-art-01",
   "allActivitiesUnlocked": true,
@@ -158,7 +158,7 @@
         {
           "activities": [
             {
-              "id": "andres/aap-lesson-1/en/v1",
+              "id": "reinartz/aap-lesson-1/en/v1",
               "prerequisites": [],
               "learningObjectives": [
                 "observe-visual-structure",
@@ -178,7 +178,7 @@
         {
           "activities": [
             {
-              "id": "andres/aap-lesson-2/en/v1",
+              "id": "reinartz/aap-lesson-2/en/v1",
               "prerequisites": [
                 "observe-visual-structure",
                 "connect-art-and-code-abstraction",
@@ -208,7 +208,7 @@
         {
           "activities": [
             {
-              "id": "andres/aap-lesson-3/en/v1",
+              "id": "reinartz/aap-lesson-3/en/v1",
               "prerequisites": [
                 "observe-visual-structure",
                 "connect-art-and-code-abstraction",
@@ -244,7 +244,7 @@
         {
           "activities": [
             {
-              "id": "andres/aap-lesson-4/en/v1",
+              "id": "reinartz/aap-lesson-4/en/v1",
               "prerequisites": [
                 "observe-visual-structure",
                 "connect-art-and-code-abstraction",
@@ -276,7 +276,7 @@
         {
           "activities": [
             {
-              "id": "andres/aap-lesson-5/en/v1",
+              "id": "reinartz/aap-lesson-5/en/v1",
               "prerequisites": [
                 "observe-visual-structure",
                 "connect-art-and-code-abstraction",
@@ -311,7 +311,7 @@
         {
           "activities": [
             {
-              "id": "andres/aap-lesson-6/en/v1",
+              "id": "reinartz/aap-lesson-6/en/v1",
               "prerequisites": [
                 "observe-visual-structure",
                 "connect-art-and-code-abstraction",
@@ -352,7 +352,7 @@
         {
           "activities": [
             {
-              "id": "andres/aap-lesson-7/en/v1",
+              "id": "reinartz/aap-lesson-7/en/v1",
               "prerequisites": [
                 "observe-visual-structure",
                 "connect-art-and-code-abstraction",
