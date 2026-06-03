@@ -1,0 +1,31 @@
+{
+  "variants": [
+    {
+      "title": "Breaking an Image into Building Blocks",
+      "language": "en",
+      "description": "decomposition, helper functions, grids, reusable parts",
+      "latestVersion": "v1"
+    }
+  ],
+  "previewImage": {
+    "filename": "sophie-taeuber-arp.png",
+    "backgroundColor": "#EBE3CC"
+  },
+  "assets": [
+    "sophie-taeuber-arp.png",
+    "divideShow.png",
+    "trioToQuad.png",
+    "number-of-cell-types.png",
+    "drawing-no-name.png",
+    "colorList.png"
+  ],
+  "visibility": "visible",
+  "concepts": [
+    "basic_comp",
+    "list"
+  ],
+  "platformConfig": {
+    "showNoOutputTip": true,
+    "showVariantSelector": true
+  }
+}

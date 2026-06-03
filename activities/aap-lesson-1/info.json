@@ -1,0 +1,28 @@
+{
+  "variants": [
+    {
+      "title": "What Does It Mean to Abstract?",
+      "language": "en",
+      "description": "abstraction basics, primitive graphics, colors, overlay, functions",
+      "latestVersion": "v1"
+    }
+  ],
+  "previewImage": {
+    "filename": "aap-lesson-1-preview.png",
+    "backgroundColor": "#E6E9EA"
+  },
+  "assets": [
+    "malevich-black-cross.svg",
+    "real-tree.svg",
+    "simple-tree.svg"
+  ],
+  "visibility": "visible",
+  "concepts": [
+    "basic_comp",
+    "color_model"
+  ],
+  "platformConfig": {
+    "showNoOutputTip": true,
+    "showVariantSelector": true
+  }
+}

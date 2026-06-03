@@ -1,0 +1,31 @@
+{
+  "variants": [
+    {
+      "title": "Repetition with Purpose: Layers, Sequences, and Patterns",
+      "language": "en",
+      "description": "loops, lists, layered graphics, repetition in abstract art",
+      "latestVersion": "v1"
+    }
+  ],
+  "previewImage": {
+    "filename": "painting.jpg",
+    "backgroundColor": "#aa4632"
+  },
+  "assets": [
+    "painting.jpg",
+    "painting2.png",
+    "painting3.png",
+    "painting4.png"
+  ],
+  "visibility": "visible",
+  "concepts": [
+    "basic_comp",
+    "fun_def",
+    "loop",
+    "list"
+  ],
+  "platformConfig": {
+    "showNoOutputTip": false,
+    "showVariantSelector": false
+  }
+}

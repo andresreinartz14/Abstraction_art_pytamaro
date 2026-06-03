@@ -1,0 +1,26 @@
+{
+  "variants": [
+    {
+      "title": "Rules, Systems, and Controlled Variation",
+      "language": "en",
+      "description": "Rule-based grids, controlled randomness, probability, loops, helper functions, and algorithmic composition",
+      "latestVersion": "v1"
+    }
+  ],
+  "previewImage": {
+    "filename": "aap-lesson-6.jpg",
+    "backgroundColor": "#f2eee8"
+  },
+  "assets": [
+    "white.png",
+    "pythagoras.png"
+  ],
+  "visibility": "visible",
+  "concepts": [
+    "basic_comp",
+    "fun_def",
+    "loop",
+    "list",
+    "arithmetic"
+  ]
+}

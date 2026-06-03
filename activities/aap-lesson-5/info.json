@@ -1,0 +1,36 @@
+{
+  "variants": [
+    {
+      "title": "Transformations and Symmetry",
+      "language": "en",
+      "description": "rotate, pin, compose, reusable triangle functions, symmetry",
+      "latestVersion": "v1"
+    }
+  ],
+  "previewImage": {
+    "filename": "original.jpg",
+    "backgroundColor": "#D3CAC2"
+  },
+  "assets": [
+    "Theo_van_Doesburg_Expanded.png",
+    "how_small_triangles_fit.png",
+    "bounding_boxes_pt_1.png",
+    "bounding_boxes_pt_2.png",
+    "bounding_boxes_pt_3.png",
+    "what_we_work_with.png",
+    "pin_yourself.png",
+    "pin_yourself_sol.png",
+    "original.jpg",
+    "bounding_boxes_pt_4.png"
+  ],
+  "visibility": "visible",
+  "uses": [],
+  "concepts": [
+    "basic_comp",
+    "pin",
+    "rotation",
+    "fun_def",
+    "abstraction",
+    "symmetry"
+  ]
+}

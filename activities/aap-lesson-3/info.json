@@ -1,0 +1,27 @@
+{
+  "variants": [
+    {
+      "title": "Parameters: Turn One Idea into Many",
+      "language": "en",
+      "description": "Parameters, proportions, reusable functions, and abstract composition",
+      "latestVersion": "v1"
+    }
+  ],
+  "previewImage": {
+    "filename": "painting.jpg",
+    "backgroundColor": "#FBFBF4"
+  },
+  "assets": [
+    "painting.jpg",
+    "painting2.png",
+    "painting3.png",
+    "painting4.png",
+    "painting5.png"
+  ],
+  "visibility": "visible",
+  "concepts": [],
+  "platformConfig": {
+    "showNoOutputTip": true,
+    "showVariantSelector": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "variants": [
+    {
+      "title": "Final Challenge: Your Abstract System",
+      "language": "en",
+      "description": "final challenge, abstraction, helper functions, parameters, repetition, rotation, rule-based variation",
+      "latestVersion": "v1"
+    }
+  ],
+  "previewImage": {
+    "filename": "diy_painting.png",
+    "backgroundColor": "#bfbcb8"
+  },
+  "assets": [],
+  "visibility": "visible",
+  "uses": [],
+  "concepts": [
+    "basic_comp",
+    "fun_def",
+    "parameter",
+    "loop",
+    "list",
+    "rotation",
+    "condition"
+  ]
+}

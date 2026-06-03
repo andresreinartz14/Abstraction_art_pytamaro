@@ -1,0 +1,400 @@
+{
+  "title": "Abstraction in Art and Programming",
+  "description": "This curriculum introduces learners to abstraction by connecting abstract visual art with code.",
+  "visibility": "visible",
+  "activitiesPreviewImage": [
+    "andres/aap-lesson-1/en/v1",
+    "andres/aap-lesson-2/en/v1",
+    "andres/aap-lesson-3/en/v1",
+    "andres/aap-lesson-4/en/v1",
+    "andres/aap-lesson-5/en/v1",
+    "andres/aap-lesson-6/en/v1",
+    "andres/aap-lesson-7/en/v1"
+  ],
+  "orderingKey": "abstraction-in-art-01",
+  "allActivitiesUnlocked": true,
+  "competencies": [
+    {
+      "id": "observe-visual-structure",
+      "name": "Observe visual structure",
+      "description": "Identify simplified forms, contrast, balance, and compositional relationships in abstract art.",
+      "longDescription": "Learners inspect abstract artworks and identify what has been simplified, what has been emphasized, and how shape, contrast, color, and balance create visual structure.",
+      "icon": "visibility",
+      "category": "graphics"
+    },
+    {
+      "id": "connect-art-and-code-abstraction",
+      "name": "Connect abstraction in art and code",
+      "description": "Explain how abstraction appears in both visual art and programming.",
+      "longDescription": "Learners compare how artists simplify and organize forms with how programmers name, compose, and reuse code structures to express essential ideas.",
+      "icon": "hub",
+      "category": "programming"
+    },
+    {
+      "id": "compose-graphics",
+      "name": "Compose graphics",
+      "description": "Combine simple graphical elements into a larger image.",
+      "longDescription": "Learners build complete images from smaller graphics, mirroring how abstract artworks can be reconstructed from a few essential parts.",
+      "icon": "widgets",
+      "category": "graphics"
+    },
+    {
+      "id": "primitive-graphics",
+      "name": "Primitive graphics",
+      "description": "Create images from basic geometric shapes.",
+      "longDescription": "Learners use primitive PyTamaro graphics such as rectangles and circles as the raw building blocks for larger compositions.",
+      "icon": "crop_square",
+      "category": "graphics"
+    },
+    {
+      "id": "call-functions",
+      "name": "Call functions",
+      "description": "Use function calls to produce values and graphics.",
+      "longDescription": "Learners read and write function calls to build graphics from named operations and reusable pieces.",
+      "icon": "play_arrow",
+      "category": "programming"
+    },
+    {
+      "id": "use-colors",
+      "name": "Use colors",
+      "description": "Apply color purposefully in a graphic composition.",
+      "longDescription": "Learners use color to create contrast, hierarchy, and mood while keeping focus on the essential structure of an abstract image.",
+      "icon": "palette",
+      "category": "graphics"
+    },
+    {
+      "id": "decompose-visual-patterns",
+      "name": "Decompose visual patterns",
+      "description": "Break an image into smaller reusable visual parts.",
+      "longDescription": "Learners identify the key parts of an artwork and describe how those parts can be rebuilt in code as separate graphical pieces or helper functions.",
+      "icon": "category",
+      "category": "graphics"
+    },
+    {
+      "id": "define-helper-functions",
+      "name": "Define functions",
+      "description": "Define a function that packages a reusable idea.",
+      "longDescription": "Learners define functions that hide construction details behind a meaningful name, making code easier to understand and reuse.",
+      "icon": "functions",
+      "category": "programming"
+    },
+    {
+      "id": "use-names",
+      "name": "Use names",
+      "description": "Store important values in descriptive names.",
+      "longDescription": "Learners bind important values, colors, graphics, and intermediate results to names that communicate their role in a program.",
+      "icon": "label",
+      "category": "programming"
+    },
+    {
+      "id": "parameterize-drawings",
+      "name": "Parameterize drawings",
+      "description": "Use parameters to control size, position, or proportion in code.",
+      "longDescription": "Learners create functions with parameters so that a drawing can vary while preserving its internal relationships.",
+      "icon": "tune",
+      "category": "programming"
+    },
+    {
+      "id": "arithmetic-operators",
+      "name": "Arithmetic operators",
+      "description": "Combine numbers with arithmetic expressions.",
+      "longDescription": "Learners use arithmetic operations to compute dimensions and relationships instead of hard-coding every value.",
+      "icon": "calculate",
+      "category": "programming"
+    },
+    {
+      "id": "compose-expressions",
+      "name": "Compose expressions",
+      "description": "Build larger computations from smaller expressions.",
+      "longDescription": "Learners nest and combine expressions to describe more complex visual relationships in compact code.",
+      "icon": "account_tree",
+      "category": "programming"
+    },
+    {
+      "id": "use-repetition-in-code",
+      "name": "Use repetition in code",
+      "description": "Recognize and implement repeated visual structures through code.",
+      "longDescription": "Learners connect repeated forms in artwork with repeated structures in programming, such as loops, generated sequences, or systematic combinations.",
+      "icon": "repeat",
+      "category": "programming"
+    },
+    {
+      "id": "literal-sequences",
+      "name": "Literal sequences",
+      "description": "Write specific sequences of values directly in code.",
+      "longDescription": "Learners create lists or other sequences by explicitly writing the desired values in source code.",
+      "icon": "format_list_bulleted",
+      "category": "programming"
+    },
+    {
+      "id": "generate-sequences",
+      "name": "Generate sequences",
+      "description": "Create sequences programmatically.",
+      "longDescription": "Learners generate collections of values through code rather than listing each value manually.",
+      "icon": "engineering",
+      "category": "programming"
+    },
+    {
+      "id": "rotate-graphics",
+      "name": "Rotate graphics",
+      "description": "Rotate graphics to create new arrangements and symmetries.",
+      "longDescription": "Learners transform graphics by rotating them, connecting geometric transformations in code with compositional choices in abstract art.",
+      "icon": "rotate_right",
+      "category": "graphics"
+    },
+    {
+      "id": "controlled-variation",
+      "name": "Controlled variation",
+      "description": "Use randomization with structure behind it.",
+      "longDescription": "Learners form algorithms that include random components while still following clear rules and constraints.",
+      "icon": "casino",
+      "category": "programming"
+    }
+  ],
+  "units": [
+    {
+      "title": "1. Seeing Abstraction",
+      "steps": [
+        {
+          "activities": [
+            {
+              "id": "andres/aap-lesson-1/en/v1",
+              "prerequisites": [],
+              "learningObjectives": [
+                "observe-visual-structure",
+                "connect-art-and-code-abstraction",
+                "compose-graphics",
+                "primitive-graphics",
+                "call-functions"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "2. Decomposing and Naming Visual Ideas",
+      "steps": [
+        {
+          "activities": [
+            {
+              "id": "andres/aap-lesson-2/en/v1",
+              "prerequisites": [
+                "observe-visual-structure",
+                "connect-art-and-code-abstraction",
+                "compose-graphics",
+                "primitive-graphics",
+                "call-functions"
+              ],
+              "learningObjectives": [
+                "use-colors",
+                "decompose-visual-patterns",
+                "define-helper-functions",
+                "use-names",
+                "observe-visual-structure",
+                "connect-art-and-code-abstraction",
+                "compose-graphics",
+                "primitive-graphics",
+                "call-functions"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "3. Making Abstractions Flexible",
+      "steps": [
+        {
+          "activities": [
+            {
+              "id": "andres/aap-lesson-3/en/v1",
+              "prerequisites": [
+                "observe-visual-structure",
+                "connect-art-and-code-abstraction",
+                "compose-graphics",
+                "primitive-graphics",
+                "call-functions",
+                "use-colors",
+                "decompose-visual-patterns",
+                "define-helper-functions",
+                "use-names"
+              ],
+              "learningObjectives": [
+                "observe-visual-structure",
+                "connect-art-and-code-abstraction",
+                "compose-graphics",
+                "primitive-graphics",
+                "use-colors",
+                "decompose-visual-patterns",
+                "define-helper-functions",
+                "use-names",
+                "parameterize-drawings",
+                "arithmetic-operators",
+                "compose-expressions"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "4. Repetition and Transformation",
+      "steps": [
+        {
+          "activities": [
+            {
+              "id": "andres/aap-lesson-4/en/v1",
+              "prerequisites": [
+                "observe-visual-structure",
+                "connect-art-and-code-abstraction",
+                "compose-graphics",
+                "primitive-graphics",
+                "call-functions",
+                "use-colors",
+                "define-helper-functions",
+                "arithmetic-operators",
+                "parameterize-drawings"
+              ],
+              "learningObjectives": [
+                "observe-visual-structure",
+                "connect-art-and-code-abstraction",
+                "compose-graphics",
+                "primitive-graphics",
+                "call-functions",
+                "use-colors",
+                "define-helper-functions",
+                "arithmetic-operators",
+                "parameterize-drawings",
+                "use-repetition-in-code",
+                "literal-sequences",
+                "generate-sequences"
+              ]
+            }
+          ]
+        },
+        {
+          "activities": [
+            {
+              "id": "andres/aap-lesson-5/en/v1",
+              "prerequisites": [
+                "observe-visual-structure",
+                "connect-art-and-code-abstraction",
+                "compose-graphics",
+                "primitive-graphics",
+                "call-functions",
+                "use-colors",
+                "decompose-visual-patterns",
+                "define-helper-functions",
+                "use-repetition-in-code"
+              ],
+              "learningObjectives": [
+                "observe-visual-structure",
+                "connect-art-and-code-abstraction",
+                "compose-graphics",
+                "primitive-graphics",
+                "call-functions",
+                "use-colors",
+                "decompose-visual-patterns",
+                "define-helper-functions",
+                "use-repetition-in-code",
+                "rotate-graphics"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "5. Rule-Based Visual Systems",
+      "steps": [
+        {
+          "activities": [
+            {
+              "id": "andres/aap-lesson-6/en/v1",
+              "prerequisites": [
+                "observe-visual-structure",
+                "connect-art-and-code-abstraction",
+                "compose-graphics",
+                "primitive-graphics",
+                "use-colors",
+                "decompose-visual-patterns",
+                "parameterize-drawings",
+                "arithmetic-operators",
+                "compose-expressions",
+                "use-repetition-in-code",
+                "literal-sequences",
+                "generate-sequences"
+              ],
+              "learningObjectives": [
+                "observe-visual-structure",
+                "connect-art-and-code-abstraction",
+                "compose-graphics",
+                "primitive-graphics",
+                "use-colors",
+                "decompose-visual-patterns",
+                "parameterize-drawings",
+                "arithmetic-operators",
+                "compose-expressions",
+                "use-repetition-in-code",
+                "literal-sequences",
+                "generate-sequences",
+                "controlled-variation"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "6. Creative Challenge",
+      "steps": [
+        {
+          "activities": [
+            {
+              "id": "andres/aap-lesson-7/en/v1",
+              "prerequisites": [
+                "observe-visual-structure",
+                "connect-art-and-code-abstraction",
+                "compose-graphics",
+                "primitive-graphics",
+                "call-functions",
+                "use-colors",
+                "decompose-visual-patterns",
+                "define-helper-functions",
+                "use-names",
+                "parameterize-drawings",
+                "arithmetic-operators",
+                "compose-expressions",
+                "use-repetition-in-code",
+                "literal-sequences",
+                "generate-sequences",
+                "rotate-graphics",
+                "controlled-variation"
+              ],
+              "learningObjectives": [
+                "observe-visual-structure",
+                "connect-art-and-code-abstraction",
+                "compose-graphics",
+                "primitive-graphics",
+                "call-functions",
+                "use-colors",
+                "decompose-visual-patterns",
+                "define-helper-functions",
+                "use-names",
+                "parameterize-drawings",
+                "arithmetic-operators",
+                "compose-expressions",
+                "use-repetition-in-code",
+                "literal-sequences",
+                "generate-sequences",
+                "rotate-graphics",
+                "controlled-variation"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
